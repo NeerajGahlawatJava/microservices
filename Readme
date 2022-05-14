@@ -1,0 +1,16 @@
+# Microservices
+This microservice is.
+
+## Setup
+1. Clone the project
+
+## Running the project
+1. Open the terminal
+2. Navigate to the root of the project
+3. Run the following command:
+```
+mvn spring-boot:run
+```
+## Swagger
+When the project is running locally, you can access the Swagger API through:
+[http://localhost:8001]
